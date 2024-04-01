@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		7796F0212BBB1A9600B0DC72 /* ViterbiAlgorithmTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7796F0202BBB1A9600B0DC72 /* ViterbiAlgorithmTests.swift */; };
 		7796F0232BBB1E7C00B0DC72 /* ViterbiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7796F0222BBB1E7C00B0DC72 /* ViterbiView.swift */; };
+		7796F0262BBB264000B0DC72 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7796F0252BBB264000B0DC72 /* README.md */; };
 		77F96B7D2B9CB00C0022ADF4 /* Swift_NLP_AlgorithmsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77F96B7C2B9CB00C0022ADF4 /* Swift_NLP_AlgorithmsApp.swift */; };
 		77F96B7F2B9CB00C0022ADF4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77F96B7E2B9CB00C0022ADF4 /* ContentView.swift */; };
 		77F96B812B9CB00E0022ADF4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77F96B802B9CB00E0022ADF4 /* Assets.xcassets */; };
@@ -38,6 +39,7 @@
 /* Begin PBXFileReference section */
 		7796F0202BBB1A9600B0DC72 /* ViterbiAlgorithmTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViterbiAlgorithmTests.swift; sourceTree = "<group>"; };
 		7796F0222BBB1E7C00B0DC72 /* ViterbiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViterbiView.swift; sourceTree = "<group>"; };
+		7796F0252BBB264000B0DC72 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		77F96B792B9CB00C0022ADF4 /* Swift-NLP-Algorithms.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-NLP-Algorithms.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		77F96B7C2B9CB00C0022ADF4 /* Swift_NLP_AlgorithmsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_NLP_AlgorithmsApp.swift; sourceTree = "<group>"; };
 		77F96B7E2B9CB00C0022ADF4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				77F96B7E2B9CB00C0022ADF4 /* ContentView.swift */,
 				7796F0222BBB1E7C00B0DC72 /* ViterbiView.swift */,
 				77F96B802B9CB00E0022ADF4 /* Assets.xcassets */,
+				7796F0252BBB264000B0DC72 /* README.md */,
 				77F96B822B9CB00E0022ADF4 /* Preview Content */,
 			);
 			path = "Swift-NLP-Algorithms";
@@ -254,6 +257,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7796F0262BBB264000B0DC72 /* README.md in Resources */,
 				77F96B842B9CB00E0022ADF4 /* Preview Assets.xcassets in Resources */,
 				77F96B812B9CB00E0022ADF4 /* Assets.xcassets in Resources */,
 			);
